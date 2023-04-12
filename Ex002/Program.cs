@@ -10,7 +10,7 @@ if (b>a && b>c)
 {
     Console.WriteLine ($"max={b}");
 }
-else if (c>a && c>b)
+if (c>a && c>b)
 {
     Console.WriteLine ($"max={c}");
 }
